@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Txg8lvVObeXeXxmQD34+nWB6ptXzDB0Lx/zy9zF3CnpS39onPplVtw1pUZt/Lm6+DaujmtojW1hYuVZmIeQ1Pg==",
+  "dgSpecHash": "OmkTWm8iUmpMlCUdhre1PRKEnDxiV9Lr2pSEUPrc97A7VjHD1oq/jh1OADXPjcNXFx1di93bneXxDYRnyys0MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\huythang\\Desktop\\test\\PrintPDF\\PrintPDF\\PrintPDF.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\huythang\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.0.0\\microsoft.extensions.options.configurationextensions.3.0.0.nupkg.sha512",
     "C:\\Users\\huythang\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
     "C:\\Users\\huythang\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\huythang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\huythang\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
     "C:\\Users\\huythang\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\huythang\\.nuget\\packages\\system.diagnostics.eventlog\\4.6.0\\system.diagnostics.eventlog.4.6.0.nupkg.sha512",
